@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_discover"
+        android:title="Keşfet"
+        android:icon="@drawable/ic_menu" />
+
+    <item
+        android:id="@+id/nav_cart"
+        android:title="Sepet"
+        android:icon="@drawable/ic_cart" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:title="Hesabım"
+        android:icon="@drawable/ic_account" />
+
+    <item
+        android:id="@+id/nav_help"
+        android:title="Yardım"
+        android:icon="@drawable/ic_help" />
+
+</menu>

@@ -1,0 +1,58 @@
+{
+  "products": {
+    "1": {
+      "id": "1",
+      "name": "Akıllı Telefon",
+      "price": 24999,
+      "imageName": "telefon.png"
+    },
+    "2": {
+      "id": "2",
+      "name": "Laptop",
+      "price": 52999,
+      "imageName": "laptop.png"
+    },
+    "3": {
+      "id": "3",
+      "name": "Kablosuz Kulaklık",
+      "price": 1999,
+      "imageName": "kulaklik.png"
+    },
+    "4": {
+      "id": "4",
+      "name": "Akıllı Saat",
+      "price": 3999,
+      "imageName": "saat.png"
+    },
+    "5": {
+      "id": "5",
+      "name": "Tablet",
+      "price": 7999,
+      "imageName": "tablet.png"
+    },
+    "6": {
+      "id": "6",
+      "name": "Bluetooth Hoparlör",
+      "price": 999,
+      "imageName": "hoparlor.png"
+    },
+    "7": {
+      "id": "7",
+      "name": "Gaming Mouse",
+      "price": 599,
+      "imageName": "mouse.png"
+    },
+    "8": {
+      "id": "8",
+      "name": "Klavye",
+      "price": 899,
+      "imageName": "klavye.png"
+    },
+    "9": {
+      "id": "9",
+      "name": "Kamera",
+      "price": 1299,
+      "imageName": "kamera.png"
+    }
+  }
+}

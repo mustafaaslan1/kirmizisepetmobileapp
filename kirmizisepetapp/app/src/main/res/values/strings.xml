@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kırmızı Sepet</string>
+    <string name="product_image">Ürün Görseli</string>
+
+    <string-array name="payment_methods">
+        <item>Kredi Kartı</item>
+        <item>Online Ödeme</item>
+        <item>Kapıda Ödeme</item>
+    </string-array>
+</resources>
